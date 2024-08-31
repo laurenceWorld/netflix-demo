@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+.bg-body-tertiary {
+  background-color: black !important;
+}
+.nav-link {
+  color: white;
+}
